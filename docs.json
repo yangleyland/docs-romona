@@ -23,6 +23,7 @@
             ]
           },
           {
+            "public":true,
             "group": "Customization",
             "pages": [
               "essentials/settings",
