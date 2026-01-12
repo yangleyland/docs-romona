@@ -15,7 +15,6 @@
         "tab": "Guides",
         "groups": [
           {
-            "public":false,
             "group": "Getting started",
             "pages": [
               "index",
@@ -32,6 +31,7 @@
             ]
           },
           {
+            "public":false
             "group": "Writing content",
             "pages": [
               "essentials/markdown",
