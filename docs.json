@@ -34,7 +34,7 @@
             ]
           },
           {
-            "public": false,
+            "public": true,
             "group": "AI tools",
             "pages": [
               "ai-tools/cursor",
