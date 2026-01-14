@@ -35,7 +35,7 @@
           },
           {
             "public": true,
-            "group": "AAI tools",
+            "group": "AaAI tools",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
